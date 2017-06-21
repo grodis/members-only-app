@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+.collapse.navbar-collapse, .navbar-brand, .container-fluid {
+  background-color: #22a738;
+}
+
+a.navbar-brand.whitext{
+  color : white;
+}
+
+.navbar-default .navbar-nav>li>a {
+   color: #fff !important;
+ }
